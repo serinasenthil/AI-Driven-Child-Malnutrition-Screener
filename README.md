@@ -190,7 +190,7 @@ Since you're learning **Python + Machine Learning + NLP/GenAI**, you can use:
 
 ---
 
-# 📁 GitHub Project Structure
+#Project Structure
 
 ```text
 AI-Child-Malnutrition-Screener/
@@ -225,7 +225,7 @@ AI-Child-Malnutrition-Screener/
     └── result.png
 ```
 
-# 🔥 GitHub Workflow
+#Workflow
 
 ```text
 Dataset
@@ -255,7 +255,7 @@ Risk Category
 Screening Report
 ```
 
-## 📊 Model Evaluation
+##Model Evaluation
 
 You can evaluate your model using:
 
@@ -267,7 +267,7 @@ You can evaluate your model using:
 
 For a health-screening project, **recall/sensitivity is especially important**, because missing a potentially at-risk child can be more concerning than sending someone for an additional assessment.
 
-## 🚀 Advanced Version
+##Advanced Version
 
 To make your GitHub project more impressive, you can add:
 
