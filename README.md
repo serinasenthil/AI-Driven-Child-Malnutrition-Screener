@@ -295,13 +295,11 @@ AI Explanation
 Personalized Screening Summary
       ↓
 Professional Follow-up Recommendation
-```
 
-###Recommended GitHub Title
 
 **AI-Driven Child Malnutrition Screening and Risk Assessment System**
 
-### GitHub one-line description
+###one-line description
 
 > An AI/ML-based screening system that analyzes child growth and nutrition-related data to identify potential malnutrition risk and support early professional assessment.
 
